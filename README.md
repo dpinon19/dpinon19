@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dalila
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning how to code responsive websites
 - 📫 Reach me via email pinondalila@gmail.com
 
 <!---
